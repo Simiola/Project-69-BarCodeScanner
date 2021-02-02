@@ -1,1 +1,2 @@
-# Project-69-BarCodeScanner
+# BarCodeScanner
+BarCode scanning in WiLy
